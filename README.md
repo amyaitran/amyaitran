@@ -1,7 +1,7 @@
 ## Hello World 😎
 
 ## 💬 About Me
-I'm Amy, a software engineer. I have experience with Javascript, React, Node.js, CSS, and more - I'm always looking to learn even more technologies!
+I'm Amy, a software developer passionate about technology.
 
 ## GitHub Stats :trophy:
 [![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amyaitran)](https://github.com/amyaitran/github-readme-stats)
