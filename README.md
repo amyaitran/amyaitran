@@ -1,7 +1,7 @@
 ## Hello World 😎
 
 ## 💬 About Me
-I'm Amy, a software developer passionate about technology.
+I'm Amy, a software developer passionate about technology and coding!
 
 ## GitHub Stats :trophy:
 [![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amyaitran)](https://github.com/amyaitran/github-readme-stats)
@@ -24,6 +24,9 @@ I'm Amy, a software developer passionate about technology.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Currently Learning
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ## 📫 Let's connect!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amyaitran/)
-
